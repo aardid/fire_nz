@@ -1,5 +1,4 @@
 # Fire Database Clustering Analysis
-# Based on ENCN 404 Lab 9 structure
 
 import matplotlib.pyplot as plt
 import seaborn as sns
