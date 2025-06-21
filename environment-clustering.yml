@@ -1,0 +1,16 @@
+name: fire-nzdb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - cartopy
+  - geopy
+  - pip
+  - pip:
+      - pyproj
